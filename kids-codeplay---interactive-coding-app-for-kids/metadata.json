@@ -1,0 +1,6 @@
+{
+  "name": "Kids-CodePlay - Interactive Coding App for Kids",
+  "description": "Landing page and interactive app simulator for Kids-CodePlay, teaching children programming through puzzle quests, visual blocks, and adventure rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
